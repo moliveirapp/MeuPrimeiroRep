@@ -2,10 +2,10 @@
 
 Olá, eu sou o **Matheus S Oliveira**, gosto de estudar:
 
-1React Native
-2PHP
-3JavaScript
-4~~Java~~
+- React Native
+- PHP
+- JavaScript
+- ~~Java~~
 
 
 ## Hobbies
